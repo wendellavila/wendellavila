@@ -2,19 +2,16 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
+<p> 
   Me formei em Ciência da Computação pela Universidade Federal de Alfenas (Unifal-MG) em 2022.
 </p>
-
-<p align="left"> 
+<p> 
   Tenho como principal área de interesse o desenvolvimento back-end, e tenho o Java como principal linguagem.
 </p>
-
-<p align="left"> 
+<p> 
   Além disso, tenho conhecimentos em desenvolvimento front-end com HTML, CSS, Flutter e React, e com data science e machine learning com Python.
 </p>
-
-<p align="left">
+<p>
   Tenho como objetivo atual me inserir no mercado de trabalho como desenvolvedor back-end, e busco por vagas de estágio ou programador júnior.
 </p>
 
@@ -47,5 +44,6 @@
   
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Jupyter Notebook](https://img.shields.io/badge/-jupyter-333333?style=flat&logo=jupyter&logoColor=2C2255)
   ![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=Neovim)
