@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/wendellavila/wendellavila/main/laptop.png" min-width="360px" max-width="360px" width="360px" align="right" alt="Laptop illustration">
 
-<p align="justify">Me formei em Ciência da Computação pela Universidade Federal de Alfenas (Unifal-MG) em 2022.</p>
+<p align="justify">Me formei como Bacharel em Ciência da Computação pela Universidade Federal de Alfenas (Unifal-MG) em 2022.</p>
 
 <p align="justify">Tenho como principal área de interesse o desenvolvimento back-end, e tenho o Java como principal linguagem.</p>
 
