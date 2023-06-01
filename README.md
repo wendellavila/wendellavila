@@ -14,6 +14,7 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendelljcavila@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=&logoColor=white)](https://linkedin.com/in/wendellavila)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535988747228)
+[![CV](https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/CV-pt-BR.pdf)
 
 <br><br>
 <h3> :rocket: &nbsp;Minhas Skills </h3>
