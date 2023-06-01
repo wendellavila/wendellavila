@@ -1,22 +1,23 @@
 ## 💻 Olá, meu nome é <strong>{Wendell Avila}!</strong>
+<span align="right" min-width="400px" max-width="400px" width="400px">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
 
-<p> 
-  Me formei em Ciência da Computação pela Universidade Federal de Alfenas (Unifal-MG) em 2022.
-</p>
-<p> 
-  Tenho como principal área de interesse o desenvolvimento back-end, e tenho o Java como principal linguagem.
-</p>
-<p> 
-  Além disso, tenho conhecimentos em desenvolvimento front-end com HTML, CSS, Flutter e React, e com data science e machine learning com Python.
-</p>
-<p>
-  Tenho como objetivo atual me inserir no mercado de trabalho como desenvolvedor back-end, e busco por vagas de estágio ou programador júnior.
-</p>
+</span>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="380px" width="380px" align="right" alt="Laptop illustration">
+
+Me formei em Ciência da Computação pela Universidade Federal de Alfenas (Unifal-MG) em 2022.
+
+Tenho como principal área de interesse o desenvolvimento back-end, e tenho o Java como principal linguagem.
+
+Além disso, tenho conhecimentos em desenvolvimento front-end com HTML, CSS, Flutter e React, e com data science e machine learning com Python.
+
+Tenho como objetivo atual me inserir no mercado de trabalho como desenvolvedor back-end, e busco por vagas de estágio ou programador júnior.
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendelljcavila@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wendellavila)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=&logoColor=white)](https://linkedin.com/in/wendellavila)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535988747228)
 
 <br><br><hl>
@@ -47,3 +48,8 @@
   ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide)
   ![Jupyter Notebook](https://img.shields.io/badge/-jupyter-333333?style=flat&logo=jupyter)
   ![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=Neovim)
+  
+  **Idiomas**
+  
+  ![pt-BR](https://img.shields.io/badge/-🇧🇷%20pt--BR-009c3b?style=flat)
+  ![en-US](https://img.shields.io/badge/-🇺🇸%20en--US-002147?style=flat)
