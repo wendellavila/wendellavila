@@ -1,7 +1,7 @@
 ## 💻 Olá, meu nome é <strong>{Wendell Avila}!</strong>
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="380px" width="380px" align="right" alt="Laptop illustration">
+<img src="https://raw.githubusercontent.com/wendellavila/wendellavila/main/laptop.png" min-width="380px" max-width="380px" width="380px" align="right" alt="Laptop illustration">
 
 Me formei em Ciência da Computação pela Universidade Federal de Alfenas (Unifal-MG) em 2022.
 
