@@ -3,13 +3,13 @@
 
 <img src="https://raw.githubusercontent.com/wendellavila/wendellavila/main/laptop.png" min-width="360px" max-width="360px" width="360px" align="right" alt="Laptop illustration">
 
-Me formei em Ciência da Computação pela Universidade Federal de Alfenas (Unifal-MG) em 2022.
+<p align="justify">Me formei em Ciência da Computação pela Universidade Federal de Alfenas (Unifal-MG) em 2022.</p>
 
-Tenho como principal área de interesse o desenvolvimento back-end, e tenho o Java como principal linguagem.
+<p align="justify">Tenho como principal área de interesse o desenvolvimento back-end, e tenho o Java como principal linguagem.</p>
 
-Além disso, tenho conhecimentos em desenvolvimento front-end com HTML, CSS, Flutter e React, e com data science e machine learning com Python.
+<p align="justify">Além disso, tenho conhecimentos em desenvolvimento front-end com HTML, CSS, Flutter e React, e com data science e machine learning com Python.</p>
 
-Tenho como objetivo atual me inserir no mercado de trabalho como desenvolvedor back-end, e busco por vagas de estágio ou programador júnior.
+<p align="justify">Tenho como objetivo atual me inserir no mercado de trabalho como desenvolvedor back-end, e busco por vagas de estágio ou programador júnior.</p>
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendelljcavila@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=&logoColor=white)](https://linkedin.com/in/wendellavila)
