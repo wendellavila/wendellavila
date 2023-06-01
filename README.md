@@ -1,10 +1,5 @@
 ## 💻 Olá, meu nome é <strong>{Wendell Avila}!</strong>
-<span align="right" min-width="400px" max-width="400px" width="400px">
-
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
-
-</span>
+<br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="380px" width="380px" align="right" alt="Laptop illustration">
 
@@ -20,7 +15,7 @@ Tenho como objetivo atual me inserir no mercado de trabalho como desenvolvedor b
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=&logoColor=white)](https://linkedin.com/in/wendellavila)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535988747228)
 
-<br><br><hl>
+<br><br>
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Linguagens**
