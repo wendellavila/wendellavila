@@ -1,7 +1,7 @@
 ## 💻 Olá, meu nome é <strong>{Wendell Avila}!</strong>
 <br>
 
-<img src="https://raw.githubusercontent.com/wendellavila/wendellavila/main/laptop.png" min-width="360px" max-width="360px" width="360px" align="right" alt="Laptop illustration">
+<img src="https://raw.githubusercontent.com/wendellavila/wendellavila/main/assets/img/laptop.png" min-width="360px" max-width="360px" width="360px" align="right" alt="Laptop illustration">
 
 <p align="justify">Me formei como Bacharel em Ciência da Computação pela Universidade Federal de Alfenas (Unifal-MG) em 2022.</p>
 
@@ -14,7 +14,7 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendelljcavila@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wendellavila)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535988747228)
-[![CV](https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/CV-pt-BR.pdf)
+[![CV](https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/assets/files/CV-pt-BR.pdf)
 
 <br><br>
 <h3> :rocket: &nbsp;Minhas Skills </h3>
