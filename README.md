@@ -21,40 +21,40 @@
 
 **Linguagens**
   
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=E0191E)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=F2CB3A)
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=3c3cff)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
+  ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=E0191E)
+  ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=F2CB3A)
+  ![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=Lua&logoColor=3c3cff)
+  ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+  ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript)
   
 **Tecnologias, Frameworks, etc.**
   
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=41C6F0)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+  ![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter&logoColor=41C6F0)
+  ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+  ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+  ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
   
   **Data Science/Machine Learning**
   
-  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras&logoColor=F22C3A)
-  ![numpy](https://img.shields.io/badge/-numpy-333333?style=flat&logo=numpy&logoColor=49A2C4)
-  ![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas&logoColor=F2C000)
-  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikitlearn)
-  ![Matplotlib](https://img.shields.io/badge/-📊%20Matplotlib-333333?style=flat)
-  ![Hyperopt](https://img.shields.io/badge/-📈%20Hyperopt-333333?style=flat)
+  ![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=Keras&logoColor=F22C3A)
+  ![numpy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=49A2C4)
+  ![pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=F2C000)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikitlearn)
+  ![Matplotlib](https://img.shields.io/badge/📊%20Matplotlib-black?style=for-the-badge)
+  ![Hyperopt](https://img.shields.io/badge/📈%20Hyperopt-black?style=for-the-badge)
 
 **Ferramentas de Desenvolvimento**
   
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=F02F5A)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=3F3179)
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
-  ![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=Neovim)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=F02F5A)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse IDE](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse-ide&logoColor=3F3179)
+  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-black?style=for-the-badge&logo=jupyter)
+  ![Neovim](https://img.shields.io/badge/Neovim-black?style=for-the-badge&logo=Neovim)
 
   **Idiomas**
   
-  ![pt-BR](https://img.shields.io/badge/-🇧🇷%20pt--BR-333333?style=flat)
-  ![en-US](https://img.shields.io/badge/-🇺🇸%20en--US-333333?style=flat)
+  ![pt-BR](https://img.shields.io/badge/🇧🇷%20pt--BR-black?style=for-the-badge)
+  ![en-US](https://img.shields.io/badge/🇺🇸%20en--US-black?style=for-the-badge)
