@@ -35,7 +35,7 @@
   [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)](https://github.com/wendellavila)
   [![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter&logoColor=41C6F0)](https://github.com/wendellavila)
   [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/wendellavila)
-  [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/wendellavila)
+  [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/wendellavila)
   [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://github.com/wendellavila)
   
   **Data Science/Machine Learning**
