@@ -19,42 +19,45 @@
 <br><br>
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Linguagens**
+**Linguagens de Programação**
   
-  ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=E0191E)
-  ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=F2CB3A)
-  ![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=Lua&logoColor=3c3cff)
-  ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
-  ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript)
+  [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=F22C3A)](https://github.com/wendellavila)
+  [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=00599C)](https://github.com/wendellavila)
+  [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=F2CB3A)](https://github.com/wendellavila)
+  [![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=Lua&logoColor=3c3cff)](https://github.com/wendellavila)
+  [![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)](https://github.com/wendellavila)
+  [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://github.com/wendellavila)
+  [![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript)](https://github.com/wendellavila)
   
 **Tecnologias, Frameworks, etc.**
   
-  ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-  ![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter&logoColor=41C6F0)
-  ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-  ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-  ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+  [![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)](https://github.com/wendellavila)
+  [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)](https://github.com/wendellavila)
+  [![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter&logoColor=41C6F0)](https://github.com/wendellavila)
+  [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/wendellavila)
+  [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/wendellavila)
+  [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://github.com/wendellavila)
   
   **Data Science/Machine Learning**
   
-  ![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=Keras&logoColor=F22C3A)
-  ![numpy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=49A2C4)
-  ![pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=F2C000)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikitlearn)
-  ![Matplotlib](https://img.shields.io/badge/📊%20Matplotlib-black?style=for-the-badge)
-  ![Hyperopt](https://img.shields.io/badge/📈%20Hyperopt-black?style=for-the-badge)
+  [![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=Keras&logoColor=F22C3A)](https://github.com/wendellavila)
+  [![numpy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=49A2C4)](https://github.com/wendellavila)
+  [![pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=F2C000)](https://github.com/wendellavila)
+  [![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikitlearn)](https://github.com/wendellavila)
+  [![Matplotlib](https://img.shields.io/badge/📊%20Matplotlib-black?style=for-the-badge)](https://github.com/wendellavila)
+  [![Hyperopt](https://img.shields.io/badge/📈%20Hyperopt-black?style=for-the-badge)](https://github.com/wendellavila)
 
-**Ferramentas de Desenvolvimento**
+**Ambientes de Desenvolvimento**
+
+  [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/wendellavila)
+  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=F02F5A)](https://github.com/wendellavila)
+  [![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://github.com/wendellavila)
+  [![Eclipse IDE](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse-ide&logoColor=3F3179)](https://github.com/wendellavila)
+  [![Jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter)](https://github.com/wendellavila)
+  [![Neovim](https://img.shields.io/badge/Neovim-black?style=for-the-badge&logo=Neovim)](https://github.com/wendellavila)
   
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=F02F5A)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse IDE](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse-ide&logoColor=3F3179)
-  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-black?style=for-the-badge&logo=jupyter)
-  ![Neovim](https://img.shields.io/badge/Neovim-black?style=for-the-badge&logo=Neovim)
 
   **Idiomas**
   
-  ![pt-BR](https://img.shields.io/badge/🇧🇷%20pt--BR-black?style=for-the-badge)
-  ![en-US](https://img.shields.io/badge/🇺🇸%20en--US-black?style=for-the-badge)
+  [![pt-BR](https://img.shields.io/badge/🇧🇷%20pt--BR-black?style=for-the-badge)](https://github.com/wendellavila)
+  [![en-US](https://img.shields.io/badge/🇺🇸%20en--US-black?style=for-the-badge)](https://github.com/wendellavila)
