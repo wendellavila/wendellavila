@@ -9,7 +9,7 @@
 
 <p align="justify">Além disso, tenho conhecimentos em desenvolvimento front-end com HTML, CSS, Flutter e React, e com data science e machine learning com Python.</p>
 
-<p align="justify">Tenho como objetivo atual me inserir no mercado de trabalho como desenvolvedor back-end, e busco por vagas de estágio ou programador júnior.</p>
+<p align="justify">Tenho como objetivo atual me inserir no mercado de trabalho como desenvolvedor back-end, e estou em busca de vagas de programador júnior.</p>
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendelljcavila@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wendellavila)
