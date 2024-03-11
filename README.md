@@ -9,7 +9,7 @@
   <li>Desenvolvimento web front-end utilizando React/Next.js.</li>
   <li> Desenvolvimento mobile/web front-end utilizando Flutter.</li>
   <li>Desenvolvimento web back-end utilizando PHP e SQL Server.</li>
-  <li>Desenvolvimento e manutenção de customizações para o sistema<br>ERP TOTVS Protheus utilizando AdvPl e SQL Server.</li>
+  <li>Desenvolvimento e manutenção de customizações para o<br>sistema ERP TOTVS Protheus utilizando AdvPl e SQL Server.</li>
 </ul>
 <br>  
 
