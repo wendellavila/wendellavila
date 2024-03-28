@@ -1,4 +1,4 @@
-## 💻 <strong>{Wendell Avila}</strong> - Web Developer
+## 💻 Olá, sou o <strong>{ Wendell Avila } !</strong>
 <br>
 <img src="https://raw.githubusercontent.com/wendellavila/wendellavila/main/assets/img/laptop.png" min-width="360px" max-width="360px" width="360px" align="right" alt="Laptop illustration">
 <p align="justify">Me formei como Bacharel em Ciência da Computação pela Universidade Federal de Alfenas (Unifal-MG) em 2022.</p>  
@@ -7,22 +7,16 @@
 <p align="justify">Atualmente atuo como Desenvolvedor Fullstack Júnior, atuando com:</p>
 <ul>
   <li>Desenvolvimento web front-end utilizando React/Next.js.</li>
-  <li> Desenvolvimento mobile/web front-end utilizando Flutter.</li>
+  <li>Desenvolvimento mobile/web front-end utilizando Flutter.</li>
   <li>Desenvolvimento web back-end utilizando PHP e SQL Server.</li>
   <li>Desenvolvimento e manutenção de customizações para o<br>sistema ERP TOTVS Protheus utilizando AdvPl e SQL Server.</li>
 </ul>
-<br>  
+<br>
 
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendelljcavila@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wendellavila)
-<<<<<<< Updated upstream
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535988747228)
-[![CV (American English)](https://img.shields.io/badge/CV_(PT--BR)-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/assets/files/CV-ptBR.pdf)
-[![CV (Brazilian Portuguese)](https://img.shields.io/badge/CV_(EN--US)-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/assets/files/CV-enUS.pdf)
-=======
-[![CV (enUS)](https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/assets/files/CV_pt_BR.pdf)
-[![CV (ptBR)](https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/assets/files/CV_en_US.pdf)
->>>>>>> Stashed changes
+[![CV (American English)](https://img.shields.io/badge/CV_(PT--BR)-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/assets/files/CV_pt_BR.pdf)
+[![CV (Brazilian Portuguese)](https://img.shields.io/badge/CV_(EN--US)-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/assets/files/CV_en_US.pdf)
 
 <br><br>
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -32,6 +26,7 @@
 [![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript)](https://github.com/wendellavila)
 [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=00599C)](https://github.com/wendellavila)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=F2CB3A)](https://github.com/wendellavila)
+[![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=0175C2)](https://github.com/wendellavila)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=F22C3A)](https://github.com/wendellavila)
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=00599C)](https://github.com/wendellavila)
 [![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=Lua&logoColor=3c3cff)](https://github.com/wendellavila)
@@ -57,7 +52,7 @@
 [![Hyperopt](https://img.shields.io/badge/📈%20Hyperopt-black?style=for-the-badge)](https://github.com/wendellavila)  
 
 **Ambientes de Desenvolvimento**  
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)](https://github.com/wendellavila)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge&logo=archlinux)](https://github.com/wendellavila)
 [![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://github.com/wendellavila)
 [![Neovim](https://img.shields.io/badge/Neovim-black?style=for-the-badge&logo=Neovim)](https://github.com/wendellavila)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=F02F5A)](https://github.com/wendellavila)
