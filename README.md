@@ -6,9 +6,8 @@
 <p align="justify">Além disso, tenho conhecimentos em data science e machine learning com Python.</p>
 <p align="justify">Atualmente atuo como Desenvolvedor Fullstack Júnior, atuando com:</p>
 <ul>
-  <li>Desenvolvimento web front-end utilizando React/Next.js.</li>
-  <li>Desenvolvimento mobile/web front-end utilizando Flutter.</li>
-  <li>Desenvolvimento web back-end utilizando PHP e SQL Server.</li>
+  <li>Desenvolvimento front-end utilizando React/Next.js e Flutter.</li>
+  <li>Desenvolvimento back-end utilizando PHP e SQL Server.</li>
   <li>Desenvolvimento e manutenção de customizações para o<br>sistema ERP TOTVS Protheus utilizando AdvPl e SQL Server.</li>
 </ul>
 <br>
