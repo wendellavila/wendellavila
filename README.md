@@ -1,16 +1,10 @@
 ## 💻 Olá, sou o <strong>{ Wendell Avila } !</strong>
 <br>
 <img src="https://raw.githubusercontent.com/wendellavila/wendellavila/main/assets/img/laptop.png" min-width="360px" max-width="360px" width="360px" align="right" alt="Laptop illustration">
-<p align="justify">Me formei como Bacharel em Ciência da Computação pela Universidade Federal de Alfenas (Unifal-MG) em 2022.</p>  
-<p align="justify">Tenho como principal área de interesse o desenvolvimento web.</p>
-<p align="justify">Além disso, tenho conhecimentos em data science e machine learning com Python.</p>
-<p align="justify">Atualmente atuo como Desenvolvedor Fullstack Júnior, atuando com:</p>
-<ul>
-  <li>Desenvolvimento front-end utilizando React/Next.js e Flutter.</li>
-  <li>Desenvolvimento back-end utilizando PHP e SQL Server.</li>
-  <li>Desenvolvimento e manutenção de customizações para o<br>sistema ERP TOTVS Protheus utilizando AdvPl e SQL Server.</li>
-</ul>
-<br>
+<p>Sou um cientista da computação graduado pela Universidade Federal de Alfenas (Unifal-MG) em 2022.</p>  
+<p>Atualmente atuo como desenvolvedor fullstack júnior, onde venho desenvolvendo minhas habilidades no front-end utilizando React/Next.js e Flutter, e no back-end com PHP e SQL Server.</p>
+<p>Também possuo conhecimentos na área de ciência de dados e machine learning.<br>Em dezembro de 2023, tive a oportunidade de publicar meu artigo intitulado "Study and Analysis of Deep Learning Techniques for Solving Financial Problems" na revista 'Learning and Nonlinear Models'.</p>
+<p>Além do desenvolvimento, também sou apaixonado pelo ecossistema GNU/Linux, o qual utilizo diariamente como meu sistema primário tanto para desenvolvimento quanto para lazer.</p>
 
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendelljcavila@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wendellavila)
