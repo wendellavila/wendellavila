@@ -1,6 +1,6 @@
 ## 💻 Olá, sou o <strong>{ Wendell Avila } !</strong>
 <br>
-<img src="https://raw.githubusercontent.com/wendellavila/wendellavila/main/assets/img/laptop.png" min-width="200px" max-width="300px" width="300px" align="right" alt="Laptop illustration">
+<img src="https://raw.githubusercontent.com/wendellavila/wendellavila/main/assets/img/laptop.png" width="35%" align="right" alt="Laptop illustration">
 <p>Sou um cientista da computação graduado pela Universidade Federal de Alfenas (Unifal-MG) em 2022.</p>  
 <p>Atualmente atuo como desenvolvedor fullstack júnior, onde venho desenvolvendo minhas habilidades no front-end utilizando React/Next.js e Flutter, e no back-end com PHP e SQL Server.</p>
 <p>Também possuo conhecimentos na área de ciência de dados e machine learning.<br>Em dezembro de 2023, tive a oportunidade de publicar meu artigo intitulado "Study and Analysis of Deep Learning Techniques for Solving Financial Problems" na revista 'Learning and Nonlinear Models'.</p>
