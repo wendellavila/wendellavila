@@ -8,8 +8,8 @@
 
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendelljcavila@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wendellavila)
-[![CV (American English)](https://img.shields.io/badge/CV_(PT--BR)-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/assets/files/CV_pt_BR.pdf)
-[![CV (Brazilian Portuguese)](https://img.shields.io/badge/CV_(EN--US)-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/assets/files/CV_en_US.pdf)
+[![CV (American English)](https://img.shields.io/badge/CV_(PT--BR)-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/assets/files/CV_pt.pdf)
+[![CV (Brazilian Portuguese)](https://img.shields.io/badge/CV_(EN--US)-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/assets/files/CV_en.pdf)
 
 <br><br>
 <h3> :rocket: &nbsp;Minhas Skills </h3>
