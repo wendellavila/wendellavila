@@ -6,8 +6,9 @@
 <p>Também possuo conhecimentos na área de ciência de dados e machine learning.<br>Em dezembro de 2023, tive a oportunidade de publicar meu artigo intitulado "Study and Analysis of Deep Learning Techniques for Solving Financial Problems" na revista 'Learning and Nonlinear Models'.</p>
 <p>Além do desenvolvimento, também sou apaixonado pelo ecossistema GNU/Linux, o qual utilizo diariamente como meu sistema primário tanto para desenvolvimento quanto para lazer.</p>
 
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wendellavila.dev)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendelljcavila@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wendellavila)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wendellavila)  
 [![CV (American English)](https://img.shields.io/badge/CV_(PT--BR)-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/assets/pdf/WendellAvila_CV_pt.pdf)
 [![CV (Brazilian Portuguese)](https://img.shields.io/badge/CV_(EN--US)-ffffff?style=for-the-badge&logo=microsoft-word&logoColor=202A44)](https://github.com/wendellavila/wendellavila/blob/main/assets/pdf/WendellAvila_CV_en.pdf)
 
